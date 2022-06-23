@@ -35,7 +35,7 @@ Projenize muhakkak bir lisans verin. Buradan açık kaynak lisans tiplerine göz
 <a href="http://ozgurlisanslar.org.tr/" target="_blank">LISANS</a> 
  
 
-## <span style="color: green"> 9. Connect with me: </span> 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me)](https://git.io/typing-svg) 
 
  
 
