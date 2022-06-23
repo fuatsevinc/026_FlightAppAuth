@@ -1,7 +1,6 @@
 
-# <div align="center">
-FlightApp_Auth 
-</div>
+# <span align="center"> Flight App </span> 
+
   
 
 ## <span style="color: green"> 1. Flight App </span> 
