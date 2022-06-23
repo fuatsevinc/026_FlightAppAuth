@@ -45,7 +45,7 @@ Projenize muhakkak bir lisans verin. Buradan açık kaynak lisans tiplerine göz
 
 </p> 
 
-- This is <a href="[www.fuatsevinc.com](http://fuatsevinc.com/)" target="_blank">My Portfolio Website</a> 
+- This is <a href="http://fuatsevinc.com/" target="_blank">My Portfolio Website</a> 
 
 - This is <a href="https://www.instagram.com/fuatsevinc66/" target="_blank">My Instagram</a> 
 
